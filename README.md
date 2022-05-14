@@ -1,3 +1,3 @@
 # explicacion-video
 ## Omar Arias 
-##Hola estoy editando el readme
+Hola estoy editando el readme
