@@ -1,4 +1,3 @@
 # explicacion-video
 
-
-edite
+edite el codigo
